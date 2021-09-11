@@ -1,0 +1,4 @@
+Bundle-Name: SchedulerEntry
+Bundle-SymbolicName: com.liferay.custom.cron
+Bundle-Version: 1.0.0
+Export-Package: com.liferay.custom.cron.constants
